@@ -66,7 +66,7 @@
         <button type="button" class="btn btn-<?= $color ?> btn-sm" data-toggle="modal" data-target="#staticBackdrop"><?=$hinicial?> - <?= $hfinal?></button>
             </th> 
             <th>
-            <button type="button" class="btn btn-<?= $color ?> btn-sm" data-toggle="modal" data-target="#staticBackdrop"><?=$hinicial?> - <?= $hfinal?></button>
+          
             </th> 
             <th>
             <button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#staticBackdrop"><?=$hinicial?> - <?= $hfinal?></button>
@@ -80,6 +80,114 @@
     </tr>
 
 
+     <tr>
+            <td>
+            <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#staticBackdrop"><?=$hinicial?> - <?= $hfinal?></button>
+            </td>
+        <th>
+            </th> 
+            <th>
+            <button type="button" class="btn btn-warning btn-sm" data-toggle="modal" data-target="#staticBackdrop"><?=$hinicial?> - <?= $hfinal?></button>
+            </th> 
+            <th>
+            </th>
+            <th>
+            <button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#staticBackdrop"><?=$hinicial?> - <?= $hfinal?></button>
+            </th> 
+            <th>
+            <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#staticBackdrop"><?=$hinicial?> - <?= $hfinal?></button>
+            </th>     
+    </tr>
+     <tr>
+            <td>
+            <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#staticBackdrop"><?=$hinicial?> - <?= $hfinal?></button>
+            </td>
+        <th>
+            </th> 
+            <th>
+            <button type="button" class="btn btn-warning btn-sm" data-toggle="modal" data-target="#staticBackdrop"><?=$hinicial?> - <?= $hfinal?></button>
+            </th> 
+            <th>
+            </th>
+            <th>
+            <button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#staticBackdrop"><?=$hinicial?> - <?= $hfinal?></button>
+            </th> 
+            <th>
+            <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#staticBackdrop"><?=$hinicial?> - <?= $hfinal?></button>
+            </th>     
+    </tr>
+     <tr>
+            <td>
+            <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#staticBackdrop"><?=$hinicial?> - <?= $hfinal?></button>
+            </td>
+        <th>
+            </th> 
+            <th>
+            <button type="button" class="btn btn-warning btn-sm" data-toggle="modal" data-target="#staticBackdrop"><?=$hinicial?> - <?= $hfinal?></button>
+            </th> 
+            <th>
+            </th>
+            <th>
+            <button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#staticBackdrop"><?=$hinicial?> - <?= $hfinal?></button>
+            </th> 
+            <th>
+            <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#staticBackdrop"><?=$hinicial?> - <?= $hfinal?></button>
+            </th>     
+    </tr>
+     <tr>
+            <td>
+            <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#staticBackdrop"><?=$hinicial?> - <?= $hfinal?></button>
+            </td>
+        <th>
+            </th> 
+            <th>
+            <button type="button" class="btn btn-warning btn-sm" data-toggle="modal" data-target="#staticBackdrop"><?=$hinicial?> - <?= $hfinal?></button>
+            </th> 
+            <th>
+            </th>
+            <th>
+            <button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#staticBackdrop"><?=$hinicial?> - <?= $hfinal?></button>
+            </th> 
+            <th>
+            <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#staticBackdrop"><?=$hinicial?> - <?= $hfinal?></button>
+            </th>     
+    </tr>
+     <tr>
+            <td>
+            <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#staticBackdrop"><?=$hinicial?> - <?= $hfinal?></button>
+            </td>
+        <th>
+            </th> 
+            <th>
+            <button type="button" class="btn btn-warning btn-sm" data-toggle="modal" data-target="#staticBackdrop"><?=$hinicial?> - <?= $hfinal?></button>
+            </th> 
+            <th>
+            </th>
+            <th>
+            <button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#staticBackdrop"><?=$hinicial?> - <?= $hfinal?></button>
+            </th> 
+            <th>
+            <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#staticBackdrop"><?=$hinicial?> - <?= $hfinal?></button>
+            </th>     
+    </tr>
+     <tr>
+            <td>
+            <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#staticBackdrop"><?=$hinicial?> - <?= $hfinal?></button>
+            </td>
+        <th>
+            </th> 
+            <th>
+            <button type="button" class="btn btn-warning btn-sm" data-toggle="modal" data-target="#staticBackdrop"><?=$hinicial?> - <?= $hfinal?></button>
+            </th> 
+            <th>
+            </th>
+            <th>
+            <button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#staticBackdrop"><?=$hinicial?> - <?= $hfinal?></button>
+            </th> 
+            <th>
+            <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#staticBackdrop"><?=$hinicial?> - <?= $hfinal?></button>
+            </th>     
+    </tr>
      <tr>
             <td>
             <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#staticBackdrop"><?=$hinicial?> - <?= $hfinal?></button>
